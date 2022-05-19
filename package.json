@@ -1,0 +1,10 @@
+{
+    "name": "example-playwright-github-action",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "eslint index.js && jest"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}
